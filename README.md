@@ -95,16 +95,23 @@ A minha trajetória técnica começou com **C#**, **Entity Framework** e padrão
 
 ---
 
-## 🏅 Certificações e cursos
+## 🏅 Certificações e Cursos
 
-| Nome | Entidade | Tipo |
-|---|---|---|
-| 🏆 Sitecore XM Cloud Developer | Sitecore | Certificação |
-| 🏆 Sitecore 10 | Sitecore | Certificação |
-| 📊 Google Analytics 4 | Google | Curso |
-| 🏷️ Google Tag Manager | Google | Curso |
-| ⚛️ Web Development with React.JS | Udemy | Curso |
-| 🗄️ PL/SQL Avançado | Oracle | Curso |
+### Certificações
+
+| Certificação | Entidade |
+|---|---|
+| 🏆 Sitecore XM Cloud Developer | Sitecore |
+| 🏆 Sitecore 10 | Sitecore |
+
+### Cursos
+
+| Curso | Entidade |
+|---|---|
+| 📊 Google Analytics 4 | Google |
+| 🏷️ Google Tag Manager | Google |
+| ⚛️ Web Development with React.JS | Udemy |
+| 🗄️ PL/SQL Avançado | Oracle |
 
 ---
 
