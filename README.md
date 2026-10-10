@@ -8,15 +8,19 @@
   <a href="https://saratenorio.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-saratenorio.com-181717?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+  <br />
   <a href="https://www.linkedin.com/in/sara-tenorio/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-sara--tenorio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <br />
   <a href="mailto:sara.tenorio.94@gmail.com">
     <img src="https://img.shields.io/badge/Email-sara.tenorio.94@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <br />
   <a href="https://github.com/SaraTenorio" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-SaraTenorio-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <br />
   <a href="https://www.instagram.com/stenorio94/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-stenorio94-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
@@ -45,48 +49,48 @@ A minha trajetória técnica começou com **C#**, **Entity Framework** e padrão
 ## 🚀 Tech Stack
 
 ### 🔷 Ecossistema Sitecore
-![Sitecore](https://img.shields.io/badge/Sitecore-XM_Cloud-EF3829?style=flat-square&logo=sitecore&logoColor=white)
-![Sitecore AI](https://img.shields.io/badge/Sitecore-AI-EF3829?style=flat-square)
-![Sitecore JSS](https://img.shields.io/badge/Sitecore-JSS-EF3829?style=flat-square)
-![Sitecore Search](https://img.shields.io/badge/Sitecore-Search-EF3829?style=flat-square)
-![Sitecore Send](https://img.shields.io/badge/Sitecore-Send-EF3829?style=flat-square)
-![Sitecore SDK](https://img.shields.io/badge/Sitecore-SDK-EF3829?style=flat-square)
-![Content Serialization](https://img.shields.io/badge/Content-Serialization-EF3829?style=flat-square)
+![Sitecore](https://img.shields.io/badge/Sitecore-XM_Cloud-EF3829?style=flat-square&logo=sitecore&logoColor=white)<br>
+![Sitecore AI](https://img.shields.io/badge/Sitecore-AI-EF3829?style=flat-square)<br>
+![Sitecore JSS](https://img.shields.io/badge/Sitecore-JSS-EF3829?style=flat-square)<br>
+![Sitecore Search](https://img.shields.io/badge/Sitecore-Search-EF3829?style=flat-square)<br>
+![Sitecore Send](https://img.shields.io/badge/Sitecore-Send-EF3829?style=flat-square)<br>
+![Sitecore SDK](https://img.shields.io/badge/Sitecore-SDK-EF3829?style=flat-square)<br>
+![Content Serialization](https://img.shields.io/badge/Content-Serialization-EF3829?style=flat-square)<br>
 ![Sitecore 9 e 10](https://img.shields.io/badge/Sitecore-9_e_10-EF3829?style=flat-square)
 
 ### 🌐 Frontend
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)<br>
+![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)<br>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)<br>
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)<br>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)<br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)<br>
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)<br>
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)<br>
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)<br>
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
 
 ### ⚙️ Backend
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-009688?style=flat-square)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)<br>
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)<br>
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)<br>
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)<br>
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)<br>
+![REST API](https://img.shields.io/badge/REST-API-009688?style=flat-square)<br>
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 ### 🛠️ DevOps & Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
-![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?style=flat-square&logo=sonarcloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)<br>
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)<br>
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)<br>
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)<br>
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)<br>
+![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?style=flat-square&logo=sonarcloud&logoColor=white)<br>
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
 
 ### 📊 Marketing & Analytics
-![Google Analytics](https://img.shields.io/badge/Google_Analytics_4-E37400?style=flat-square&logo=google-analytics&logoColor=white)
-![Google Tag Manager](https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=flat-square&logo=google-tag-manager&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics_4-E37400?style=flat-square&logo=google-analytics&logoColor=white)<br>
+![Google Tag Manager](https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=flat-square&logo=google-tag-manager&logoColor=white)<br>
 ![Segment](https://img.shields.io/badge/Segment-52BD94?style=flat-square&logo=segment&logoColor=white)
 
 ---
