@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "chrome-devtools-edge": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "chrome-devtools-mcp@latest",
+        "--executablePath",
+        "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "--isolated"
+      ],
+      "env": {}
+    }
+  }
+}
